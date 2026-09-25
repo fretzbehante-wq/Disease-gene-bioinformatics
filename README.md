@@ -60,25 +60,24 @@ h. ClinVar record URL: https://www.ncbi.nlm.nih.gov/clinvar/variation/265433/
 Screenshot 4. Selected COL1A1 Variant in NCBI ClinVar
 
 # Part F. Locating the Variant in UCSC
-a. Where is the variant located relative to your gene?
-The selected variant is located within the COL1A1 gene at chr17:50,194,032 (GRCh38).
+a. The selected variant is located within the COL1A1 gene at chr17:50,194,032 (GRCh38).
 
-b. Is it in an exon, intron, UTR, splice region, or another region?
-To be determined from the UCSC gene model.
+b. The variant is located in an exon.
 
-c. Is it likely in a coding or non-coding region based on the displayed annotations?
-To be determined from the UCSC gene model.
+c. The variant is likely in a coding region.
 
-d. Based on its location and ClinVar information, briefly explain how the variant might affect the gene or gene product.
-The variant c.1678G>A (p.Gly560Ser) results in an amino acid change from glycine to serine and is classified as pathogenic in the selected ClinVar record.
+d. The variant c.1678G>A (p.Gly560Ser) results in an amino acid change from glycine to serine and is classified as pathogenic in the selected ClinVar record.
 
-e. What additional evidence would be needed before concluding that the variant causes disease?
-Additional evidence such as functional studies, clinical data, and supporting genetic evidence would be needed to establish its disease-causing effect.
+e. Additional evidence such as functional studies, clinical data, and supporting genetic evidence would be needed to establish its disease-causing effect.
 <img width="915" height="610" alt="image" src="https://github.com/user-attachments/assets/ed6a1825-fe2b-4c10-bfd8-13c343aa3ea1" />
 
 Screenshot 5. Selected Variant Location in UCSC
-# Part G.  Interpretation
-
-# 8. Reflection
+# Part G.  Short Reflection 
+Using the UCSC Genome Browser showed me details about the COL1A1 gene that were not obvious from simply reading about its function, such as its genomic location, exon-intron structure, and multiple transcripts. Knowing the exact genomic location of a disease-associated variant is useful because it helps determine where the variant occurs relative to the gene and its annotated regions. But genomic location alone cannot fully predict a variant’s effect because additional genetic, clinical, and functional evidence is needed. The most interesting feature I observed was the presence of multiple transcripts and numerous ClinVar variants within the COL1A1 genomic region.
 
 # 9. References and Links
+UCSC Genome Browser: https://genome.ucsc.edu/
+UCSC Genome Browser Tutorials: https://genome.ucsc.edu/docs/tutorials/
+UCSC Genome Browser 101: https://genome.ucsc.edu/docs/tutorials/gb101.html
+NCBI ClinVar: https://www.ncbi.nlm.nih.gov/clinvar/
+NCBI ClinVar Search Help: https://www.ncbi.nlm.nih.gov/clinvar/docs/help/
